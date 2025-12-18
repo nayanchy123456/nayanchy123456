@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Java+Enthusiast+%E2%98%95;Building+Scalable+Solutions+with+Spring+Boot+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Java+Enthusiast+%E2%98%95;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -38,12 +38,12 @@
 
 ```java
 public class NayanChaudhary {
-    private String location = "Kathmandu, Nepal 🇳🇵";
+    private String location = "Kathmandu, Nepal";
     private String currentRole = "Full Stack Developer";
     private String[] expertise = {"Java", "Spring Boot", "React JS"};
     
     public String getCurrentProject() {
-        return "Community EV Station Platform ⚡";
+        return "Community EV Station Platform";
     }
     
     public String getLearningFocus() {
@@ -55,7 +55,7 @@ public class NayanChaudhary {
     }
     
     public String get2025Goal() {
-        return "Build impactful real-world solutions 🎯";
+        return "Build impactful real-world solutions ";
     }
 }
 ```
@@ -85,7 +85,7 @@ public class NayanChaudhary {
   </tr>
   <tr>
     <td>⚡ <b>Fun Fact</b></td>
-    <td>I turn coffee into code and bugs into features! ☕➡️💻</td>
+    <td>Clean code gives me peace.</td>
   </tr>
 </table>
 
@@ -248,24 +248,6 @@ Real-time weather information app with live data integration.
 
 </details>
 
----
-
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanchy123456&theme=radical" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanchy123456&theme=radical" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nayanchy123456&theme=radical&utcOffset=5.75" alt="Productive Time"/>
-</div>
-
----
-
 ## 💭 Developer Quote
 
 <div align="center">
@@ -302,7 +284,6 @@ graph LR
 🔹 **Full Stack Development** projects  
 🔹 **Cloud Computing** & AWS  
 🔹 **Open Source** collaboration opportunities  
-🔹 **System Design** & Architecture  
 
 <br>
 
@@ -322,7 +303,7 @@ graph LR
 
 <br>
 
-**📍 Location:** Kathmandu, Nepal 🇳🇵  
+**📍 Location:** Kathmandu, Nepal  
 **💼 Open to:** Backend Development Opportunities | Collaborations | Freelance Projects
 
 </div>
