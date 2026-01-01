@@ -256,7 +256,7 @@ Real-time weather information app with live data integration.
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 ```mermaid
 graph LR
