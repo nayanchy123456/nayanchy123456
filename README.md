@@ -54,7 +54,7 @@ public class NayanChaudhary {
         return "Backend Development with Java & Spring Boot";
     }
     
-    public String get2025Goal() {
+    public String get2026Goal() {
         return "Build impactful real-world solutions ";
     }
 }
