@@ -42,12 +42,8 @@ public class NayanChaudhary {
     private String currentRole = "Full Stack Developer";
     private String[] expertise = {"Java", "Spring Boot", "React JS"};
     
-    public String getCurrentProject() {
-        return "Community EV Station Platform";
-    }
-    
     public String getLearningFocus() {
-        return "Cloud Computing ☁️ | AWS";
+        return "Cloud Computing ☁️ | AWS | Microservices";
     }
     
     public String getCollaborationInterest() {
@@ -141,112 +137,6 @@ public class NayanChaudhary {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🌟 Pinned Repositories
-
-<a href="https://github.com/nayanchy123456/Task-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayanchy123456&repo=Task-Manager&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanchy123456/NEA-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayanchy123456&repo=NEA-Website&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanchy123456/Tic-Tac-Toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayanchy123456&repo=Tic-Tac-Toe&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanchy123456/weatherApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayanchy123456&repo=weatherApplication&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🎨 Project Showcase
-
-<details>
-<summary><b>📋 Task Manager - Full Stack Application</b></summary>
-<br>
-
-A comprehensive task management system with automatic status tracking and deadline monitoring.
-
-**✨ Key Features:**
-- ✅ Create, read, update, and delete tasks
-- 🕐 Automatic overdue detection based on due dates
-- 📊 Smart categorization: Pending, Completed, and Overdue
-- 🎯 Real-time task statistics dashboard
-- 🔄 RESTful API architecture
-
-**🛠️ Tech Stack:**
-- **Backend:** Java, Spring Boot, REST API, MySQL
-- **Frontend:** React JS, Fetch API, CSS
-- **Architecture:** MVC pattern with separate frontend/backend
-
-</details>
-
-<details>
-<summary><b>⚡ NEA Website - Internship Project</b></summary>
-<br>
-
-Official website developed during internship at Nepal Electricity Authority.
-
-**✨ Key Features:**
-- 🎨 Modern, creative UI/UX design
-- 📱 Fully responsive across all devices
-- ⚡ Fast loading and optimized performance
-- 🎯 User-friendly navigation
-- 💼 Professional and clean interface
-
-**🛠️ Tech Stack:**
-- **Frontend:** React JS
-- **Styling:** Modern CSS with contemporary design patterns
-- **Deployment:** Vercel
-
-</details>
-
-<details>
-<summary><b>🎮 Tic-Tac-Toe Game</b></summary>
-<br>
-
-Classic game implementation with clean code and smooth gameplay.
-
-**✨ Key Features:**
-- 🎯 Two-player interactive gameplay
-- 🏆 Win detection algorithm
-- 🔄 Reset game functionality
-- 💡 Clean and intuitive UI
-- 📱 Responsive design
-
-**🛠️ Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript
-- **Logic:** Vanilla JavaScript with DOM manipulation
-
-</details>
-
-<details>
-<summary><b>🌤️ Weather Application</b></summary>
-<br>
-
-Real-time weather information app with live data integration.
-
-**✨ Key Features:**
-- 🌍 Real-time weather data
-- 🔍 Search by city name
-- 📊 Detailed weather information
-- 🎨 Clean and modern interface
-- 📱 Responsive design
-
-**🛠️ Tech Stack:**
-- **Frontend:** React JS
-- **API Integration:** Weather API with Fetch
-- **Styling:** Modern CSS
-
-</details>
 
 ## 💭 Developer Quote
 
@@ -256,36 +146,6 @@ Real-time weather information app with live data integration.
 
 ---
 
-## 🎯 2026 Roadmap
-
-```mermaid
-graph LR
-    A[☁️ Master Cloud Computing] --> B[🚀 Build Real-World Projects]
-    B --> C[🤝 Open Source Contributions]
-    C --> D[📚 Microservices Architecture]
-    D --> E[🎓 System Design Mastery]
-    
-    style A fill:#f75c7e
-    style B fill:#6db33f
-    style C fill:#61dafb
-    style D fill:#f7df1e
-    style E fill:#ed8b00
-```
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 💬 I'm always excited to discuss:
-
-🔹 **Java & Spring Boot** best practices  
-🔹 **Full Stack Development** projects  
-🔹 **Cloud Computing** & AWS  
-🔹 **Open Source** collaboration opportunities  
-
-<br>
 
 ### 📫 Reach Out To Me
 
