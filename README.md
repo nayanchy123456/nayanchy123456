@@ -150,7 +150,7 @@ public class NayanChaudhary {
 ### 📫 Reach Out To Me
 
 <p>
-  <a href="mailto:nayanchaudhary1010@gmail.com">
+  <a href="mailto:nayanchy2004@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/nayan-chaudhary-99b126317/">
