@@ -58,34 +58,6 @@ public class NayanChaudhary {
 
 <br clear="right"/>
 
----
-
-## 🎯 Current Focus
-
-<table>
-  <tr>
-    <td>🔭 <b>Working On</b></td>
-    <td>Community EV Station Platform</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Learning</b></td>
-    <td>Cloud Computing, AWS, Microservices</td>
-  </tr>
-  <tr>
-    <td>👯 <b>Collaboration</b></td>
-    <td>Backend projects using Java & Spring Boot</td>
-  </tr>
-  <tr>
-    <td>💬 <b>Ask Me About</b></td>
-    <td>Java, Spring Boot, React, REST APIs, MySQL</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Fun Fact</b></td>
-    <td>Clean code gives me peace.</td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Technology Arsenal
 
