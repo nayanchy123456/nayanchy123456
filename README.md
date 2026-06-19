@@ -43,7 +43,7 @@ public class NayanChaudhary {
     private String[] expertise = {"Java", "Spring Boot", "React JS"};
     
     public String getLearningFocus() {
-        return "Cloud Computing ☁️ | AWS | Microservices | System Design";
+        return "Cloud Computing ☁️ | AWS | Microservices | System Design | Docker";
     }
     
     public String getCollaborationInterest() {
